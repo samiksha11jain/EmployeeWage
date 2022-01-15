@@ -47,6 +47,7 @@
     <Compile Include="NewFolder2\PartTimeProgram.cs" />
     <Compile Include="NewFolder3\SwitchCase.cs" />
     <Compile Include="NewFolder4\SwitchCase2.cs" />
+    <Compile Include="NewFolder5\switchcase3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
