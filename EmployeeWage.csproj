@@ -46,6 +46,7 @@
     <Compile Include="NewFolder1\DailyWage.cs" />
     <Compile Include="NewFolder2\PartTimeProgram.cs" />
     <Compile Include="NewFolder3\SwitchCase.cs" />
+    <Compile Include="NewFolder4\SwitchCase2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
